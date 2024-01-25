@@ -1,6 +1,10 @@
 <h1 align="center">Hello 🙋‍♂️, I am Deep Kumar</h1>
 <h3 align="center">I'm a Full Stack Developer with a passion for building scalable web applications and exploring new technologies. I have experience with front-end and back-end technologies including Javascript, React, Node.js, Express, MongoDB, PostgreSQL, and SQL.</h3>
 
+<div id="header" align="center">
+  <img src="https://media1.tenor.com/m/wA8Gx_UqnY4AAAAC/coding.gif" width="80%" height="400"/>
+</div>
+
 - 🌱 I’m currently learning **React, TypeScript**
 
 - 👨‍💻 All of my projects are available at
