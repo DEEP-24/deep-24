@@ -5,11 +5,9 @@
   <img src="https://media1.tenor.com/m/wA8Gx_UqnY4AAAAC/coding.gif" width="70%" height="450"/>
 </div>
 
-- 🌱 I’m currently learning **React, TypeScript**
-
-- 👨‍💻 All of my projects are available at
-
 - 💬 Ask me about **node, express, javascript, react**
+
+- 🤝 Connect me on LinkedIn **https://www.linkedin.com/in/deep-kumar-211527214/**
 
 - 📫 How to reach me **deepkumarmendapara@gmail.com**
 
