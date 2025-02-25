@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="User Image" width="65" height="65" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="User Image" width="100" height="100" />
   <h1>Hello! I'm Deep Kumar</h1>
   <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6CE4F7&center=true&vCenter=true&random=false&width=440&lines=Full+Stack+Developer;MERN+Stack+Developer;Software+Engineer" alt="Typing SVG" />
