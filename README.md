@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="User Image" width="100" height="100" />
+  <img src="https://private-user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDA0NTY5MDEsIm5iZiI6MTc0MDQ1NjYwMSwicGF0aCI6Ii83NDAzODE5MC8yNjQxNDE2ODMtOGFhOTlmNmMtMjY3ZC00OTc3LTljZDMtMWE0YzExNjc1ODYzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjI1VDA0MTAwMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTZiMjZlMmY2YjE4YzQ3NTA4ZjBiM2RjMzAwNDU3ODVkZTFkNzdhMGQwOGVlODEyYzAwYmI2YzUxNmQyOTA2ZTAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.rpBydH4ZsFqyzL-vSyVLrbNjYZxZMXHP5x9vgUwI9_4" alt="User Image" width="100" height="100" />
   <h1>Hello! I'm Deep Kumar</h1>
   <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6CE4F7&center=true&vCenter=true&random=false&width=440&lines=Full+Stack+Developer;MERN+Stack+Developer;Software+Engineer" alt="Typing SVG" />
