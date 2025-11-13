@@ -39,7 +39,7 @@
   <a href="https://twitter.com/DEEPPATEL7680" target="_blank">
     <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="http://www.deepkumar.xyz" target="_blank">
+  <a href="http://deep24-portfolio.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Deep-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
