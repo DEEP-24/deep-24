@@ -68,6 +68,17 @@ const deep = {
 
 </div>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DEEP-24&label=Visitors&color=181717&style=flat" /> </p>
+
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DEEP-24/DEEP-24/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DEEP-24/DEEP-24/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DEEP-24/DEEP-24/output/github-snake.svg">
+</picture>
+<br>
+
+<!--
 # 📊 GitHub Stats
 
 <div align="center">
@@ -78,4 +89,4 @@ const deep = {
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=DEEP-24&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
+</div> -->
